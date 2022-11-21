@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning different frontend and backend languages and techniques to enhance my skills.
 - 💞️ I’m looking to collaborate on anything web/server based!
-- 📫 How to reach me ...
+- 📫 How to reach me through github or my discord @dkezy#1506
 
 <!---
 dkezy/dkezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
